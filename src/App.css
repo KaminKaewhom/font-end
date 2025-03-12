@@ -1,0 +1,7 @@
+.containerr {
+  display: flex;
+  width: 100%;
+}
+.content {
+  flex-grow: 1;
+}

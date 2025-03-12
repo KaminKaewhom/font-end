@@ -1,0 +1,188 @@
+.Order {
+  width: 90%;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.center {
+  text-align: center;
+  display: flex;
+}
+
+h2 {
+  color: #333;
+  margin-bottom: 15px;
+}
+
+.orderList {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+  flex-grow: 1;
+}
+.or {
+  flex-grow: 1;
+}
+.orderList th,
+.orderList td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.orderList th {
+  background: #007bff;
+  color: white;
+}
+
+.orderList tr:hover {
+  background: #f1f1f1;
+}
+
+.orderList__item {
+  cursor: pointer;
+}
+
+.orderList__status {
+  font-weight: bold;
+  padding: 5px;
+  border-radius: 5px;
+  /* display: inline-block; */
+}
+
+.orderList__status--Canceled {
+  color: red;
+}
+
+.orderList__status--Paid {
+  color: green;
+}
+
+.orderList__status--PendingPayment {
+  color: orange;
+}
+
+.orderDetails {
+  margin-top: 20px;
+  padding: 20px;
+  background: #fff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+}
+
+.orderDetails table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.orderDetails th,
+.orderDetails td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: center;
+}
+
+.btnG {
+  margin-top: 15px;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+}
+
+.btnPayment {
+  background: #28a745;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+.btnPayment:hover {
+  background: #218838;
+}
+
+.btnCanceled {
+  background: #dc3545;
+  color: white;
+  border: none;
+  padding: 10px 20px;
+  font-size: 16px;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background 0.3s ease-in-out;
+}
+
+.btnCanceled:hover {
+  background: #c82333;
+}
+.orderDetails {
+  background: #fff;
+  padding: 20px;
+  border-radius: 10px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  max-width: 600px;
+  margin: 20px auto;
+  font-family: Arial, sans-serif;
+}
+
+.orderDetails h2 {
+  text-align: center;
+  margin-bottom: 15px;
+}
+
+.orderDetails p {
+  font-size: 16px;
+  margin: 8px 0;
+  border-bottom: 1px solid #eee;
+  padding-bottom: 5px;
+}
+
+.orderDetails strong {
+  color: #333;
+}
+
+.orderDetails table {
+  width: 100%;
+  margin-top: 15px;
+  border-collapse: collapse;
+}
+
+.orderDetails th,
+.orderDetails td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.orderDetails th {
+  background: #f4f4f4;
+}
+
+.btnG {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.btnPayment,
+.btnCanceled {
+  padding: 10px 15px;
+  margin: 5px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.btnPayment {
+  background: #28a745;
+  color: white;
+}
+
+.btnCanceled {
+  background: #dc3545;
+  color: white;
+}

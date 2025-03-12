@@ -1,0 +1,82 @@
+[
+  {
+    "product_id": "1",
+    "product_name": "Jordan x Dior Air Jordan 1",
+    "product_brand": "NIKE",
+    "category_id": "2",
+    "product_price": "608600",
+    "stock_quantity": "10",
+    "description": "One of the most highly anticipated launches of the year. The Dior x Air Jordan 1 High sneakers are the first collaboration between the luxury powerhouse and sneaker giant. Crafted from wolf grey and sail white leather, these Air Jordan 1 High sneakers take on the iconic high-top silhouette, and update it by way of a grey Dior monogram swoosh logo. The perfect balance between classic and high-style.",
+    "image_url": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/h_594,c_limit/f4de6339-e829-49be-bd15-45fe9a037349/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-air-max-plus-04K813.png"
+  },
+  {
+    "product_id": "6",
+    "product_name": "LV x Timberland",
+    "product_brand": "Pharrell Williams",
+    "category_id": "1",
+    "product_price": "116000",
+    "stock_quantity": "5",
+    "description": "ผลงานจากการร่วมงานกันครั้งพิเศษในคอลเลคชั่น LV x Timberland เปิดตัวครั้งแรกในแฟชั่นโชว์คอลเลคชั่นสุภาพบุรุษ Fall-Winter 2024 ของ Pharrell Williams ผสานรองเท้าบู้ทสุดไอคอนิกเข้ากับเอกลักษณ์ความประณีตหรูหราของหลุยส์ วิตตอง สะท้อนถึงธีม American Workwear ที่ออกแบบให้ใช้งานได้ยาวนาน รองเท้าหนังลูกวัวนูบัคเคลือบกันน้ำเนื้อนุ่มประทับลาย Monogram ประณีตผลิตในอิตาลี ตกแต่งดีเทลหลักอย่างลิ้นรองเท้าประทับลาย Monogram ประดับแท็กหนังตกแต่งสัญลักษณ์การร่วมงานกันอย่างลงตัว",
+    "image_url": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/h_594,c_limit/481471b3-0853-42b3-b4cd-4089967bc957/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%A7%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B9%82%E0%B8%A3%E0%B9%89%E0%B8%94%E0%B8%A3%E0%B8%B1%E0%B8%99%E0%B8%99%E0%B8%B4%E0%B9%88%E0%B8%87%E0%B8%9C%E0%B8%B9%E0%B9%89-pegasus-plus-vsskjR.png"
+  },
+  {
+    "product_id": "7",
+    "product_name": "LV x Timberland",
+    "product_brand": "Pharrell Williams",
+    "category_id": "1",
+    "product_price": "116000",
+    "stock_quantity": "3",
+    "description": "ผลงานจากการร่วมงานกันครั้งพิเศษในคอลเลคชั่น LV x Timberland เปิดตัวครั้งแรกในแฟชั่นโชว์คอลเลคชั่นสุภาพบุรุษ Fall-Winter 2024 ของ Pharrell Williams ผสานรองเท้าบู้ทสุดไอคอนิกเข้ากับเอกลักษณ์ความประณีตหรูหราของหลุยส์ วิตตอง สะท้อนถึงธีม American Workwear ที่ออกแบบให้ใช้งานได้ยาวนาน รองเท้าหนังลูกวัวนูบัคเคลือบกันน้ำเนื้อนุ่มประทับลาย Monogram ประณีตผลิตในอิตาลี ตกแต่งดีเทลหลักอย่างลิ้นรองเท้าประทับลาย Monogram ประดับแท็กหนังตกแต่งสัญลักษณ์การร่วมงานกันอย่างลงตัว",
+    "image_url": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/h_594,c_limit/d5a2e5a2-b0dc-4212-b2b0-56d11419b0ac/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-reactx-rejuven8-zVR5Bq.png"
+  },
+  {
+    "product_id": "8",
+    "product_name": "LV x Timberland",
+    "product_brand": "Pharrell Williams",
+    "category_id": "1",
+    "product_price": "116000",
+    "stock_quantity": "1",
+    "description": "ผลงานจากการร่วมงานกันครั้งพิเศษในคอลเลคชั่น LV x Timberland เปิดตัวครั้งแรกในแฟชั่นโชว์คอลเลคชั่นสุภาพบุรุษ Fall-Winter 2024 ของ Pharrell Williams ผสานรองเท้าบู้ทสุดไอคอนิกเข้ากับเอกลักษณ์ความประณีตหรูหราของหลุยส์ วิตตอง สะท้อนถึงธีม American Workwear ที่ออกแบบให้ใช้งานได้ยาวนาน รองเท้าหนังลูกวัวนูบัคเคลือบกันน้ำเนื้อนุ่มประทับลาย Monogram ประณีตผลิตในอิตาลี ตกแต่งดีเทลหลักอย่างลิ้นรองเท้าประทับลาย Monogram ประดับแท็กหนังตกแต่งสัญลักษณ์การร่วมงานกันอย่างลงตัว",
+    "image_url": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/h_594,c_limit/db43bfbb-c634-4501-b553-6ac54da8006d/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-dunk-low-retro-premium-MtYkUUBI.png"
+  },
+  {
+    "product_id": "9",
+    "product_name": "Jordan x Dior Air Jordan 1",
+    "product_brand": "NIKE",
+    "category_id": "2",
+    "product_price": "608600",
+    "stock_quantity": "1",
+    "description": "One of the most highly anticipated launches of the year. The Dior x Air Jordan 1 High sneakers are the first collaboration between the luxury powerhouse and sneaker giant. Crafted from wolf grey and sail white leather, these Air Jordan 1 High sneakers take on the iconic high-top silhouette, and update it by way of a grey Dior monogram swoosh logo. The perfect balance between classic and high-style.",
+    "image_url": "https://static.nike.com/a/images/q_auto:eco/t_product_v1/f_auto/dpr_1.0/h_594,c_limit/4643ebc2-cb2b-4e39-bff9-11c27f56bdcf/%E0%B8%A3%E0%B8%AD%E0%B8%87%E0%B9%80%E0%B8%97%E0%B9%89%E0%B8%B2%E0%B8%9C%E0%B8%B9%E0%B9%89-blazer-low-77-premium-9GQP4c.png"
+  },
+  {
+    "product_id": "10",
+    "product_name": "LV x Timberland",
+    "product_brand": "Pharrell Williams",
+    "category_id": "1",
+    "product_price": "116000",
+    "stock_quantity": "1",
+    "description": "ผลงานจากการร่วมงานกันครั้งพิเศษในคอลเลคชั่น LV x Timberland เปิดตัวครั้งแรกในแฟชั่นโชว์คอลเลคชั่นสุภาพบุรุษ Fall-Winter 2024 ของ Pharrell Williams ผสานรองเท้าบู้ทสุดไอคอนิกเข้ากับเอกลักษณ์ความประณีตหรูหราของหลุยส์ วิตตอง สะท้อนถึงธีม American Workwear ที่ออกแบบให้ใช้งานได้ยาวนาน รองเท้าหนังลูกวัวนูบัคเคลือบกันน้ำเนื้อนุ่มประทับลาย Monogram ประณีตผลิตในอิตาลี ตกแต่งดีเทลหลักอย่างลิ้นรองเท้าประทับลาย Monogram ประดับแท็กหนังตกแต่งสัญลักษณ์การร่วมงานกันอย่างลงตัว",
+    "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/a710787c-70eb-489b-a37a-8c5d3d0f3fc2/AIR+MAX+DN.png"
+  },
+  {
+    "product_id": "11",
+    "product_name": "LV x Timberland",
+    "product_brand": "Pharrell Williams",
+    "category_id": "1",
+    "product_price": "116000",
+    "stock_quantity": "1",
+    "description": "ผลงานจากการร่วมงานกันครั้งพิเศษในคอลเลคชั่น LV x Timberland เปิดตัวครั้งแรกในแฟชั่นโชว์คอลเลคชั่นสุภาพบุรุษ Fall-Winter 2024 ของ Pharrell Williams ผสานรองเท้าบู้ทสุดไอคอนิกเข้ากับเอกลักษณ์ความประณีตหรูหราของหลุยส์ วิตตอง สะท้อนถึงธีม American Workwear ที่ออกแบบให้ใช้งานได้ยาวนาน รองเท้าหนังลูกวัวนูบัคเคลือบกันน้ำเนื้อนุ่มประทับลาย Monogram ประณีตผลิตในอิตาลี ตกแต่งดีเทลหลักอย่างลิ้นรองเท้าประทับลาย Monogram ประดับแท็กหนังตกแต่งสัญลักษณ์การร่วมงานกันอย่างลงตัว",
+    "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/2d064214-312e-46a9-a839-bbb4914f5f96/W+NIKE+AIR+MAX+PORTAL.png"
+  },
+  {
+    "product_id": "12",
+    "product_name": "Jordan x Dior Air Jordan 1",
+    "product_brand": "NIKE",
+    "category_id": "2",
+    "product_price": "608600",
+    "stock_quantity": "1",
+    "description": "One of the most highly anticipated launches of the year. The Dior x Air Jordan 1 High sneakers are the first collaboration between the luxury powerhouse and sneaker giant. Crafted from wolf grey and sail white leather, these Air Jordan 1 High sneakers take on the iconic high-top silhouette, and update it by way of a grey Dior monogram swoosh logo. The perfect balance between classic and high-style.",
+    "image_url": "https://static.nike.com/a/images/c_limit,w_592,f_auto/t_product_v1/5b557a02-adef-4797-8f37-a2a4db683f13/NIKE+AIR+MAX+90+PRM.png"
+  }
+]

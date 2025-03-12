@@ -1,0 +1,15 @@
+.cartIcon {
+  padding: 8px 16px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  border-radius: 4px;
+}
+.cartIcon svg {
+  width: 23px;
+  color: #fff;
+}
+.cartIcon:hover {
+  background-color: #333333;
+}

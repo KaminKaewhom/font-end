@@ -1,0 +1,47 @@
+.report-container {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.report-table {
+  width: 90%;
+  border-collapse: collapse;
+  background-color: #ffffff;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  border-radius: 8px;
+  overflow: hidden;
+}
+.productName {
+  width: 400px;
+}
+td {
+  white-space: pre-line; /* แสดงบรรทัดใหม่ที่ใช้ \n */
+}
+.report-table th,
+.report-table td {
+  border: 1px solid #ddd;
+  padding: 10px;
+  text-align: center;
+}
+
+.report-table th {
+  background-color: #007bff;
+  color: white;
+  font-weight: bold;
+}
+
+.report-table tbody tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
+
+.report-table tbody tr:hover {
+  background-color: #ddd;
+}
+
+.loading-row {
+  text-align: center;
+  font-style: italic;
+  color: #555;
+}
